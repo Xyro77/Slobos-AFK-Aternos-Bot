@@ -1,13 +1,13 @@
 {
-  "name": "Thakalli2043",
+  "name": "bot3",
   "bot-account": {
     "username": "Thakalli",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "qfiesmp.in",
-    "port": 19132,
+    "ip": "mca.mcsh.gg",
+    "port": 25565,
     "version": "",
     "try-creative": false
   },
